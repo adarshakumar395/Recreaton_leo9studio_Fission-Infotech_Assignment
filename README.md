@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to leo9studio project
 
 ## Project info
 
-**URL**: https://app.netlify.com/projects/leos-studio-recreation-adarsha-kumar/overview
+**URL**: https://recreation-leo9studio-adarsha-kumar.netlify.app/
 
 ## How can I edit this code?
 
@@ -56,12 +56,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/6ab625a6-7a08-4541-b24a-a61a8d997dab) and click on Share -> Publish.
+Simply push your repo on github and deploy on Netlify 
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
