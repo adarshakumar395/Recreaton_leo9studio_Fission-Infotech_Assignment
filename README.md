@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://app.netlify.com/projects/leos-studio-recreation-adarsha-kumar/overview
+**URL**: https://recreation-leo9studio-adarsha-kumar.netlify.app/
 
 ## How can I edit this code?
 
